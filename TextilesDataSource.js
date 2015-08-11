@@ -3485,7 +3485,7 @@ var textileDataSource = [
       weft: 10,
       weftTwist: 'S',
       observableColour: 'Near Black',
-      dyeStuff: 'Brown Dye (Unknown)',
+      dyeStuff: ['Brown Dye (Unknown)'],
       
    }],
    source: [{
