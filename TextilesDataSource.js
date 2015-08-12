@@ -6,23 +6,23 @@ var textileDataSource = [
 	catalogueRef: '1257',
 	date: '850-900',
 	spec: [{
-	  	weave: 'Tabby',
-	  	warp: 4,
-	  	warpTwist: 'Z',
+      weave: 'Tabby',
+      warp: 4,
+      warpTwist: 'Z',
       warpFleeceType: 'Hairy',
-	  	weft: 3,
-	  	weftTwist: 'S',
+      weft: 3,
+      weftTwist: 'S',
       weftFleeceType: 'Hairy',
-	  	observableColour: 'Mid Brown',
-	  	dyeStuff: ['none'],
+      observableColour: 'Mid Brown',
+      dyeStuff: ['none'],
    }],
 	source: [{
-	  	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-	  	title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate',
+      author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate',
 	}]
 },
-{ 
+{
    place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
@@ -40,13 +40,13 @@ var textileDataSource = [
       dyeStuff: ['indigotin'],
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate',
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate',
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1259',
@@ -63,13 +63,13 @@ var textileDataSource = [
       dyeStuff: ['indigotin'],
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1260',
@@ -86,13 +86,13 @@ var textileDataSource = [
       dyeStuff: ['madder'],
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1261',
@@ -107,13 +107,13 @@ var textileDataSource = [
       dyeStuff: ['none'],
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1262',
@@ -128,16 +128,15 @@ var textileDataSource = [
       weftFleeceType: 'Medium',
       observableColour: 'Dark Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1263',
@@ -152,21 +151,20 @@ var textileDataSource = [
       weftFleeceType: 'Medium',
       observableColour: 'Mid Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1264',
    date: '850-900',
-   spec: 
+   spec:
    [{
       weave: '2/2 chevron twill',
       warp: 18,
@@ -177,16 +175,15 @@ var textileDataSource = [
       weftFleeceType: 'Hairy',
       observableColour: 'Mottled Brown',
       dyeStuff: ['none'],
-         
-   }],
+      }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1265',
@@ -200,16 +197,15 @@ var textileDataSource = [
       weftTwist: 'S',
       weftFleeceType: 'Medium',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1266',
@@ -222,16 +218,15 @@ var textileDataSource = [
       weftTwist: 'S',
       observableColour: 'Mid Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1267',
@@ -246,16 +241,15 @@ var textileDataSource = [
       weftFleeceType: 'Hairy',
       observableColour: 'Mid Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1268',
@@ -268,16 +262,15 @@ var textileDataSource = [
       weftTwist: 'S',
       observableColour: 'Mid Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1272',
@@ -290,16 +283,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1272',
@@ -312,16 +304,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1273',
@@ -334,16 +325,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1279',
@@ -356,16 +346,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Silk',
    item: 'Textile',
    catalogueRef: '1281',
@@ -378,16 +367,15 @@ var textileDataSource = [
       weftTwist: 'I',
       observableColour: 'Mid Brown',
       dyeStuff: ['madder'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Silk',
    item: 'Textile',
    catalogueRef: '1282',
@@ -400,16 +388,15 @@ var textileDataSource = [
       weftTwist: 'I',
       observableColour: 'Golden Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1295',
@@ -424,16 +411,15 @@ var textileDataSource = [
       weftFleeceType: 'hairy',
       observableColour: 'Dark Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1296',
@@ -446,16 +432,15 @@ var textileDataSource = [
       weftTwist: 'S',
       observableColour: 'Grey Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1297',
@@ -470,16 +455,15 @@ var textileDataSource = [
       weftFleeceType: 'Hairy Medium',
       observableColour: 'Dark Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1298',
@@ -492,16 +476,15 @@ var textileDataSource = [
       weftTwist: 'S',
       observableColour: 'Grey Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1299',
@@ -514,16 +497,15 @@ var textileDataSource = [
       weftTwist: 'S',
       observableColour: 'Dark Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1300',
@@ -538,16 +520,15 @@ var textileDataSource = [
       weftFleeceType: 'Hairy',
       observableColour: 'Light Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1301',
@@ -560,16 +541,15 @@ var textileDataSource = [
       weftTwist: 'S',
       observableColour: 'Red',
       dyeStuff: ['madder'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1302',
@@ -584,16 +564,15 @@ var textileDataSource = [
       weftFleeceType: 'Hairy',
       observableColour: 'Mid Brown',
       dyeStuff: ['indigotin'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1303',
@@ -606,18 +585,17 @@ var textileDataSource = [
       weft: 6,
       weftTwist: 'S',
       weftFleeceType: 'Hairy Medium',
-      observableColour: 'Warp Dark, Weft Light',
+      observableColour: 'Warp Dark,Weft Light',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1304',
@@ -632,16 +610,15 @@ var textileDataSource = [
       weftFleeceType: 'Hairy Medium',
       observableColour: 'Dark Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1305',
@@ -656,16 +633,15 @@ var textileDataSource = [
       weftFleeceType: 'Hairy Medium',
       observableColour: 'Light Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1306',
@@ -680,16 +656,15 @@ var textileDataSource = [
       weftFleeceType: 'Medium',
       observableColour: 'Dull Red',
       dyeStuff: ['lichen purple'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1307',
@@ -704,16 +679,15 @@ var textileDataSource = [
       weftFleeceType: 'Hairy Medium',
       observableColour: 'Light Brown',
       dyeStuff: ['lichen purple'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1308',
@@ -728,16 +702,15 @@ var textileDataSource = [
       weftFleeceType: 'Hairy Medium',
       observableColour: 'Reddish',
       dyeStuff: ['madder'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Sock',
    catalogueRef: '1309',
@@ -747,17 +720,16 @@ var textileDataSource = [
       warpTwist: 'Z',
       weftTwist: 'S',
       dyeStuff: ['madder'],
-      
    }],
    note: 'Narrow band dyed with madder rest undyed.',
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1317',
@@ -770,16 +742,15 @@ var textileDataSource = [
       weftTwist: 'S',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1318',
@@ -792,16 +763,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1319',
@@ -814,16 +784,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1320',
@@ -836,16 +805,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1321',
@@ -858,16 +826,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1322',
@@ -880,16 +847,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1323',
@@ -902,16 +868,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1323',
@@ -924,16 +889,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1324',
@@ -946,16 +910,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1325',
@@ -968,16 +931,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1326',
@@ -990,16 +952,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1327',
@@ -1012,16 +973,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1328',
@@ -1034,16 +994,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1329',
@@ -1056,16 +1015,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1330',
@@ -1078,16 +1036,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Mineralised Grey',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1331',
@@ -1100,16 +1057,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1332',
@@ -1122,16 +1078,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1333',
@@ -1144,16 +1099,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1334',
@@ -1166,16 +1120,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1335',
@@ -1188,16 +1141,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1336',
@@ -1210,16 +1162,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Silk',
    item: 'Textile',
    catalogueRef: '1341',
@@ -1232,16 +1183,15 @@ var textileDataSource = [
       weftTwist: 'I',
       observableColour: 'Golden Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Silk',
    item: 'Textile',
    catalogueRef: '1342',
@@ -1254,16 +1204,15 @@ var textileDataSource = [
       weftTwist: 'I',
       observableColour: 'Dark Brown',
       dyeStuff: ['kermes'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Silk',
    item: 'Textile',
    catalogueRef: '1343',
@@ -1276,16 +1225,15 @@ var textileDataSource = [
       weftTwist: 'I',
       observableColour: 'Golden Brown',
       dyeStuff: ['indigotin'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Silk',
    item: 'Textile',
    catalogueRef: '1344',
@@ -1298,16 +1246,15 @@ var textileDataSource = [
       weftTwist: 'I',
       observableColour: 'Light Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Silk',
    item: 'Cap',
    catalogueRef: '1345',
@@ -1320,16 +1267,15 @@ var textileDataSource = [
       weftTwist: 'I',
       observableColour: 'Light Brown',
       dyeStuff: ['madder'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Silk',
    item: 'Textile',
    catalogueRef: '1346',
@@ -1342,16 +1288,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Mid Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Silk',
    item: 'Textile',
    catalogueRef: '1347',
@@ -1364,16 +1309,15 @@ var textileDataSource = [
       weftTwist: 'I',
       observableColour: 'Brown',
       dyeStuff: ['indigotin'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Silk',
    item: 'Textile',
    catalogueRef: '1348',
@@ -1386,16 +1330,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Mid Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Silk',
    item: 'Textile',
    catalogueRef: '1349',
@@ -1407,17 +1350,16 @@ var textileDataSource = [
       weft: 20,
       weftTwist: 'I',
       observableColour: 'Red Brown',
-      dyeStuff: [ 'madder', 'lichen purple' ]
-      
+      dyeStuff: [ 'madder','lichen purple' ]
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Silk',
    item: 'Textile',
    catalogueRef: '1350',
@@ -1430,16 +1372,15 @@ var textileDataSource = [
       weftTwist: 'I',
       observableColour: 'Red',
       dyeStuff: ['madder'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Silk',
    item: 'Textile',
    catalogueRef: '1351',
@@ -1451,16 +1392,15 @@ var textileDataSource = [
       weft: 24,
       weftTwist: 'I',
       dyeStuff: ['untested'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Silk',
    item: 'Textile',
    catalogueRef: '1352',
@@ -1472,17 +1412,16 @@ var textileDataSource = [
       weft: 10,
       weftTwist: 'Z',
       observableColour: 'Reddish Brown',
-      dyeStuff: ['madder', 'lichen purple']
-      
+      dyeStuff: ['madder','lichen purple']
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Silk',
    item: 'Textile',
    catalogueRef: '1353',
@@ -1495,16 +1434,15 @@ var textileDataSource = [
       weftTwist: 'S',
       observableColour: 'Light Brown',
       dyeStuff: ['untested'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Silk',
    item: 'Textile',
    catalogueRef: '1354',
@@ -1516,16 +1454,15 @@ var textileDataSource = [
       weft: 20,
       weftTwist: 'S',
       dyeStuff: ['untested'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Silk',
    item: 'Textile',
    catalogueRef: '1355',
@@ -1538,16 +1475,15 @@ var textileDataSource = [
       weftTwist: 'S',
       observableColour: 'Mid Brown',
       dyeStuff: 'kermes',
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1363',
@@ -1560,16 +1496,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1364',
@@ -1582,16 +1517,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1365',
@@ -1604,16 +1538,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1366',
@@ -1626,16 +1559,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1367',
@@ -1648,16 +1580,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1368',
@@ -1670,16 +1601,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1369',
@@ -1692,16 +1622,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Grey',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Silk',
    item: 'Textile',
    catalogueRef: '1371',
@@ -1714,16 +1643,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Mid Brown',
       dyeStuff: ['madder'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Silk',
    item: 'Head Dress',
    catalogueRef: '1372',
@@ -1736,16 +1664,15 @@ var textileDataSource = [
       weftTwist: 'I',
       observableColour: 'Golden Brown',
       dyeStuff: ['untested'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1379',
@@ -1758,16 +1685,15 @@ var textileDataSource = [
       weftTwist: 'S',
       observableColour: 'Red',
       dyeStuff: ['madder'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1380',
@@ -1780,16 +1706,15 @@ var textileDataSource = [
       weftTwist: 'S',
       observableColour: 'Grey Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1381',
@@ -1802,16 +1727,15 @@ var textileDataSource = [
       weftTwist: 'S',
       observableColour: 'Reddish Grey',
       dyeStuff: ['madder'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1382',
@@ -1824,16 +1748,15 @@ var textileDataSource = [
       weftTwist: 'S',
       observableColour: 'Dark Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1388',
@@ -1846,16 +1769,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Greyish White',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1389',
@@ -1868,16 +1790,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Grey Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Shirt',
    catalogueRef: '1390',
@@ -1890,16 +1811,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1391',
@@ -1912,16 +1832,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1392',
@@ -1934,16 +1853,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1393',
@@ -1956,16 +1874,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1394',
@@ -1978,16 +1895,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1395',
@@ -2000,16 +1916,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1396',
@@ -2022,16 +1937,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1397',
@@ -2044,16 +1958,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1398',
@@ -2066,16 +1979,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1399',
@@ -2088,16 +2000,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1400',
@@ -2110,16 +2021,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1401',
@@ -2132,16 +2042,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1402',
@@ -2154,16 +2063,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Grey',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1403',
@@ -2176,16 +2084,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1404',
@@ -2198,16 +2105,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Silk',
    item: 'Textile',
    catalogueRef: '1407',
@@ -2220,16 +2126,15 @@ var textileDataSource = [
       weftTwist: 'S',
       observableColour: 'Red Brown',
       dyeStuff: ['madder'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1411',
@@ -2242,16 +2147,15 @@ var textileDataSource = [
       weftTwist: 'S',
       observableColour: 'Grey',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1460',
@@ -2266,16 +2170,15 @@ var textileDataSource = [
       weftFleeceType: 'Hairy',
       observableColour: 'Mid Brown',
       dyeStuff: ['madder'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'York', 
+{
+   place: 'York',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '1462',
@@ -2288,16 +2191,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Carbonised',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-        	author: ['Walton-Rogers, P'],
-	  	year: 1989,
-      title: 'Textiles, Cordage and Raw Fibre from 16–22 Coppergate'
+         author: ['Walton-Rogers,P'],
+      year: 1989,
+      title: 'Textiles,Cordage and Raw Fibre from 16-22 Coppergate'
    }]
 },
-{ 
-   place: 'Kingston Down', 
+{
+   place: 'Kingston Down',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: 'Liverpool Museum 6188',
@@ -2307,16 +2209,16 @@ var textileDataSource = [
       warp: 14,
       warpTwist: 'Z',
       weft: 12,
-      weftTwist: 'S',   
+      weftTwist: 'S',  
    }],
    source: [{
-      author: ['Coatsworth, E', 'Fitzgerald, M' ],
+      author: ['Coatsworth,E','Fitzgerald,M' ],
       year: 1998,
       title: 'Anglo-Saxon Textiles in the Mayer/Faussett Collection'
    }]
 },
-{ 
-   place: 'Sibertswold Down', 
+{
+   place: 'Sibertswold Down',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: 'Liverpool Museum AS 14',
@@ -2326,16 +2228,16 @@ var textileDataSource = [
       warp: 5,
       warpTwist: 'Z',
       weft: 6,
-      weftTwist: 'Z',   
+      weftTwist: 'Z',  
    }],
    source: [{
-      author: ['Coatsworth, E', 'Fitzgerald, M' ],
+      author: ['Coatsworth,E','Fitzgerald,M' ],
       year: 1998,
       title: 'Anglo-Saxon Textiles in the Mayer/Faussett Collection'
    }]
 },
-{ 
-   place: 'unknown', 
+{
+   place: 'unknown',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: 'Liverpool Museum AS 9',
@@ -2345,16 +2247,16 @@ var textileDataSource = [
       warp: 18,
       warpTwist: 'Z',
       weft: 18,
-      weftTwist: 'Z',   
+      weftTwist: 'Z',  
    }],
    source: [{
-      author: ['Coatsworth, E', 'Fitzgerald, M' ],
+      author: ['Coatsworth,E','Fitzgerald,M' ],
       year: 1998,
       title: 'Anglo-Saxon Textiles in the Mayer/Faussett Collection'
    }]
 },
-{ 
-   place: 'unknown', 
+{
+   place: 'unknown',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: 'Liverpool Museum AS 9',
@@ -2364,16 +2266,16 @@ var textileDataSource = [
       warp: 6,
       warpTwist: 'S',
       weft: 7,
-      weftTwist: 'Z',   
+      weftTwist: 'Z',  
    }],
    source: [{
-      author: ['Coatsworth, E', 'Fitzgerald, M' ],
+      author: ['Coatsworth,E','Fitzgerald,M' ],
       year: 1998,
       title: 'Anglo-Saxon Textiles in the Mayer/Faussett Collection'
    }]
 },
-{ 
-   place: 'unknown', 
+{
+   place: 'unknown',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: 'Liverpool Museum AS 8',
@@ -2383,10 +2285,10 @@ var textileDataSource = [
       warp: 9,
       warpTwist: 'Z',
       weft: 5,
-      weftTwist: 'Z',   
+      weftTwist: 'Z',  
    }],
    source: [{
-      author: ['Coatsworth, E', 'Fitzgerald, M' ],
+      author: ['Coatsworth,E','Fitzgerald,M' ],
       year: 1998,
       title: 'Anglo-Saxon Textiles in the Mayer/Faussett Collection'
    }]
@@ -2397,8 +2299,8 @@ var textileDataSource = [
 
 
 --------------------------------------*/
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '1',
@@ -2412,16 +2314,15 @@ var textileDataSource = [
       weftTwist: 'S',
       weftFleeceType: 'Hairy Medium',
       dyeStuff: ['untested'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '2',
@@ -2435,16 +2336,15 @@ var textileDataSource = [
       weftTwist: 'S',
       weftFleeceType: 'Generalised Medium',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '3',
@@ -2458,16 +2358,15 @@ var textileDataSource = [
       weftTwist: 'S',
       weftFleeceType: 'Medium',
       dyeStuff: ['madder'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '4',
@@ -2481,16 +2380,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       weftFleeceType: 'Hairy Medium',
       dyeStuff: ['madder'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '5',
@@ -2504,16 +2402,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       weftFleeceType: 'Generalised Medium',
       dyeStuff: ['untested'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '6',
@@ -2527,16 +2424,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       weftFleeceType: 'Fine Generalised Medium',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '8',
@@ -2550,16 +2446,15 @@ var textileDataSource = [
       weftTwist: 'S',
       weftFleeceType: 'Hairy',
       dyeStuff: ['madder'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '9',
@@ -2571,10 +2466,9 @@ var textileDataSource = [
       weft: 13,
       weftTwist: 'Z',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
@@ -2584,8 +2478,8 @@ var textileDataSource = [
 
 
 ---------------------------*/
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '10',
@@ -2599,16 +2493,15 @@ var textileDataSource = [
       weftTwist: 'S',
       weftFleeceType: 'Generalised Medium',
       dyeStuff: ['madder'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '11',
@@ -2622,16 +2515,15 @@ var textileDataSource = [
       weftTwist: 'S',
       weftFleeceType: 'Hairy Medium',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '12',
@@ -2645,16 +2537,15 @@ var textileDataSource = [
       weftTwist: 'S',
       weftFleeceType: 'Hairy Medium',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '13',
@@ -2668,16 +2559,15 @@ var textileDataSource = [
       weftTwist: 'S',
       weftFleeceType: 'Hairy Medium',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '14',
@@ -2689,16 +2579,15 @@ var textileDataSource = [
       weft: 13,
       weftTwist: 'S',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '15',
@@ -2712,16 +2601,15 @@ var textileDataSource = [
       weftTwist: 'S',
       weftFleeceType: 'Generalised Medium',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '16',
@@ -2735,16 +2623,15 @@ var textileDataSource = [
       weftTwist: 'S',
       weftFleeceType: 'Hairy Medium',
       dyeStuff: ['indigotin'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '17',
@@ -2757,17 +2644,16 @@ var textileDataSource = [
       weft: 9,
       weftTwist: 'S',
       weftFleeceType: 'Hairy',
-      dyeStuff: ['madder', 'indigotin']
-      
+      dyeStuff: ['madder','indigotin']
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '18',
@@ -2781,16 +2667,15 @@ var textileDataSource = [
       weftTwist: 'S',
       weftFleeceType: 'Medium',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '19',
@@ -2804,16 +2689,15 @@ var textileDataSource = [
       weftTwist: 'S',
       weftFleeceType: 'Hairy Medium',
       dyeStuff: ['lichen purple'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '20',
@@ -2827,16 +2711,15 @@ var textileDataSource = [
       weftTwist: 'S',
       weftFleeceType: 'Hairy Medium',
       dyeStuff: ['indigotin'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '21',
@@ -2850,16 +2733,15 @@ var textileDataSource = [
       weftTwist: 'S',
       weftFleeceType: 'Hairy Medium',
       dyeStuff: ['lichen purple'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '22',
@@ -2872,17 +2754,16 @@ var textileDataSource = [
       weft: 12,
       weftTwist: 'S',
       weftFleeceType: 'Medium',
-      dyeStuff: ['indigotin', 'lichen purple']
-      
+      dyeStuff: ['indigotin','lichen purple']
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '23',
@@ -2894,16 +2775,15 @@ var textileDataSource = [
       weft: 9,
       weftTwist: 'S',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '24',
@@ -2917,16 +2797,15 @@ var textileDataSource = [
       weftTwist: 'S',
       weftFleeceType: 'Hairy Medium',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '25',
@@ -2940,16 +2819,15 @@ var textileDataSource = [
       weftTwist: 'S',
       weftFleeceType: 'Hairy Medium',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '26',
@@ -2963,16 +2841,15 @@ var textileDataSource = [
       weftTwist: 'S',
       weftFleeceType: 'Hairy Medium',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '27',
@@ -2986,16 +2863,15 @@ var textileDataSource = [
       weftTwist: 'S',
       weftFleeceType: 'Hairy Medium',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '28',
@@ -3006,17 +2882,16 @@ var textileDataSource = [
       warpTwist: 'Z',
       weft: 14,
       weftTwist: 'S',
-      dyeStuff: ['indigotin', 'madder']
-      
+      dyeStuff: ['indigotin','madder']
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '29',
@@ -3028,16 +2903,15 @@ var textileDataSource = [
       weft: 19,
       weftTwist: 'S',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'goat hair',
    item: 'Textile',
    catalogueRef: '31',
@@ -3049,16 +2923,15 @@ var textileDataSource = [
       weft: 2,
       weftTwist: 'Z',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'goat hair',
    item: 'Textile',
    catalogueRef: '32',
@@ -3070,16 +2943,15 @@ var textileDataSource = [
       weft: 4,
       weftTwist: 'S',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'goat hair',
    item: 'Textile',
    catalogueRef: '33',
@@ -3091,16 +2963,15 @@ var textileDataSource = [
       weft: 4,
       weftTwist: 'S',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Silk',
    item: 'Textile',
    catalogueRef: '34',
@@ -3112,16 +2983,15 @@ var textileDataSource = [
       weft: 20,
       weftTwist: 'I',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Silk',
    item: 'Textile',
    catalogueRef: '35',
@@ -3133,16 +3003,15 @@ var textileDataSource = [
       weft: 18,
       weftTwist: 'I',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Silk',
    item: 'Textile',
    catalogueRef: '34',
@@ -3154,16 +3023,15 @@ var textileDataSource = [
       weft: 32,
       weftTwist: 'I',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '40',
@@ -3175,16 +3043,15 @@ var textileDataSource = [
       weft: 14,
       weftTwist: 'Z',
       dyeStuff: ['untested'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
 },
-{ 
-   place: 'London', 
+{
+   place: 'London',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: '41',
@@ -3196,10 +3063,9 @@ var textileDataSource = [
       weft: 16,
       weftTwist: 'Z',
       dyeStuff: ['untested'],
-      
    }],
    source: [{
-      author: ['Pritchard, F. A'],
+      author: ['Pritchard,F. A'],
       year: 1984,
       title: 'Late Saxon Textiles from the City of London'
    }]
@@ -3207,8 +3073,8 @@ var textileDataSource = [
 /*KNEEP
 
 ----------------*/
-{ 
-   place: 'Kneep', 
+{
+   place: 'Kneep',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: 'OvalBrooch 1 Fragment 1',
@@ -3220,16 +3086,15 @@ var textileDataSource = [
       weft: 11,
       weftTwist: 'Z',
       dyeStuff: ['untested'],
-      
    }],
    source: [{
-      author: ['Jorgensen, L. B'],
+      author: ['Jorgensen,L. B'],
       year: 1987,
-      title: 'A Viking burial from Kneep, Uig, Isle of Lewis'
+      title: 'A Viking burial from Kneep,Uig,Isle of Lewis'
    }]
 },
-{ 
-   place: 'Kneep', 
+{
+   place: 'Kneep',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: 'OvalBrooch 1 Fragment 2',
@@ -3241,16 +3106,15 @@ var textileDataSource = [
       weft: 10,
       weftTwist: 'Z',
       dyeStuff: ['untested'],
-      
    }],
    source: [{
-      author: ['Jorgensen, L. B'],
+      author: ['Jorgensen,L. B'],
       year: 1987,
-      title: 'A Viking burial from Kneep, Uig, Isle of Lewis'
+      title: 'A Viking burial from Kneep,Uig,Isle of Lewis'
    }]
 },
-{ 
-   place: 'Kneep', 
+{
+   place: 'Kneep',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: 'OvalBrooch 2 Fragment 1',
@@ -3262,16 +3126,15 @@ var textileDataSource = [
       weft: 13,
       weftTwist: 'Z',
       dyeStuff: ['untested'],
-      
    }],
    source: [{
-      author: ['Jorgensen, L. B'],
+      author: ['Jorgensen,L. B'],
       year: 1987,
-      title: 'A Viking burial from Kneep, Uig, Isle of Lewis'
+      title: 'A Viking burial from Kneep,Uig,Isle of Lewis'
    }]
 },
-{ 
-   place: 'Kneep', 
+{
+   place: 'Kneep',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: 'OvalBrooch 2 Fragment 2',
@@ -3283,16 +3146,15 @@ var textileDataSource = [
       weft: 10,
       weftTwist: 'Z',
       dyeStuff: ['untested'],
-      
    }],
    source: [{
-      author: ['Jorgensen, L. B'],
+      author: ['Jorgensen,L. B'],
       year: 1987,
-      title: 'A Viking burial from Kneep, Uig, Isle of Lewis'
+      title: 'A Viking burial from Kneep,Uig,Isle of Lewis'
    }]
 },
-{ 
-   place: 'Kneep', 
+{
+   place: 'Kneep',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: 'Loose',
@@ -3304,16 +3166,15 @@ var textileDataSource = [
       weft: 11,
       weftTwist: 'Z',
       dyeStuff: ['untested'],
-      
    }],
    source: [{
-      author: ['Jorgensen, L. B'],
+      author: ['Jorgensen,L. B'],
       year: 1987,
-      title: 'A Viking burial from Kneep, Uig, Isle of Lewis'
+      title: 'A Viking burial from Kneep,Uig,Isle of Lewis'
    }]
 },
-{ 
-   place: 'Kneep', 
+{
+   place: 'Kneep',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: 'Loose 2',
@@ -3325,16 +3186,15 @@ var textileDataSource = [
       weft: 16,
       weftTwist: 'Z',
       dyeStuff: ['untested'],
-      
    }],
    source: [{
-      author: ['Jorgensen, L. B'],
+      author: ['Jorgensen,L. B'],
       year: 1987,
-      title: 'A Viking burial from Kneep, Uig, Isle of Lewis'
+      title: 'A Viking burial from Kneep,Uig,Isle of Lewis'
    }]
 },
-{ 
-   place: 'Kneep', 
+{
+   place: 'Kneep',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: 'Bronze Belt Buckle Fragment',
@@ -3346,12 +3206,11 @@ var textileDataSource = [
       weft: 16,
       weftTwist: 'Z',
       dyeStuff: ['untested'],
-      
    }],
    source: [{
-      author: ['Jorgensen, L. B'],
+      author: ['Jorgensen,L. B'],
       year: 1987,
-      title: 'A Viking burial from Kneep, Uig, Isle of Lewis'
+      title: 'A Viking burial from Kneep,Uig,Isle of Lewis'
    }]
 },
 /*ADWICK
@@ -3359,8 +3218,8 @@ var textileDataSource = [
 
 
 -------------------------------*/
-{ 
-   place: 'Adwick-le-Street', 
+{
+   place: 'Adwick-le-Street',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: 'Brooch Fabric',
@@ -3372,16 +3231,15 @@ var textileDataSource = [
       weft: 9,
       weftTwist: 'Z',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Walton-Rogers, P', 'Speed, G'],
+      author: ['Walton-Rogers,P','Speed,G'],
       year: 2001,
-      title: 'A Burial of a Viking Woman at Adwick-le-Street, South Yorkshire'
+      title: 'A Burial of a Viking Woman at Adwick-le-Street,South Yorkshire'
    }]
 },
-{ 
-   place: 'Adwick-le-Street', 
+{
+   place: 'Adwick-le-Street',
    fabricType: 'Veg',
    item: 'Textile',
    catalogueRef: 'Brooch Loop',
@@ -3393,12 +3251,11 @@ var textileDataSource = [
       weft: 24,
       weftTwist: 'Z',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Walton-Rogers, P', 'Speed, G'],
+      author: ['Walton-Rogers,P','Speed,G'],
       year: 2001,
-      title: 'A Burial of a Viking Woman at Adwick-le-Street, South Yorkshire'
+      title: 'A Burial of a Viking Woman at Adwick-le-Street,South Yorkshire'
    }]
 },
 /*DURHAM
@@ -3406,8 +3263,8 @@ var textileDataSource = [
 
 
 ----------------------*/
-{ 
-   place: 'Durham', 
+{
+   place: 'Durham',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '142/1685/766466',
@@ -3420,16 +3277,15 @@ var textileDataSource = [
       weftTwist: 'S',
       observableColour: 'Dark Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Carver, M. O. H', 'Crowfoot, E', 'Appleyard, H. M'],
+      author: ['Carver,M. O. H','Crowfoot,E','Appleyard,H. M'],
       year: 1974,
       title: 'Three Saxo-Norman Tenements in Durham City'
    }]
 },
-{ 
-   place: 'Durham', 
+{
+   place: 'Durham',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '166/1685/768413',
@@ -3442,16 +3298,15 @@ var textileDataSource = [
       weftTwist: 'I',
       observableColour: 'Dark Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Carver, M. O. H', 'Crowfoot, E', 'Appleyard, H. M'],
+      author: ['Carver,M. O. H','Crowfoot,E','Appleyard,H. M'],
       year: 1974,
       title: 'Three Saxo-Norman Tenements in Durham City'
    }]
 },
-{ 
-   place: 'Durham', 
+{
+   place: 'Durham',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '17/1575/768410',
@@ -3464,16 +3319,15 @@ var textileDataSource = [
       weftTwist: 'S',
       observableColour: 'Dark Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Carver, M. O. H', 'Crowfoot, E', 'Appleyard, H. M'],
+      author: ['Carver,M. O. H','Crowfoot,E','Appleyard,H. M'],
       year: 1974,
       title: 'Three Saxo-Norman Tenements in Durham City'
    }]
 },
-{ 
-   place: 'Durham', 
+{
+   place: 'Durham',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '91/1581/766463',
@@ -3486,16 +3340,15 @@ var textileDataSource = [
       weftTwist: 'S',
       observableColour: 'Near Black',
       dyeStuff: ['Brown Dye (Unknown)'],
-      
    }],
    source: [{
-      author: ['Carver, M. O. H', 'Crowfoot, E', 'Appleyard, H. M'],
+      author: ['Carver,M. O. H','Crowfoot,E','Appleyard,H. M'],
       year: 1974,
       title: 'Three Saxo-Norman Tenements in Durham City'
    }]
 },
-{ 
-   place: 'Durham', 
+{
+   place: 'Durham',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '103/1633/766464',
@@ -3508,16 +3361,15 @@ var textileDataSource = [
       weftTwist: 'Z',
       observableColour: 'Grey Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Carver, M. O. H', 'Crowfoot, E', 'Appleyard, H. M'],
+      author: ['Carver,M. O. H','Crowfoot,E','Appleyard,H. M'],
       year: 1974,
       title: 'Three Saxo-Norman Tenements in Durham City'
    }]
 },
-{ 
-   place: 'Durham', 
+{
+   place: 'Durham',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '121/1639/766465',
@@ -3530,16 +3382,15 @@ var textileDataSource = [
       weftTwist: 'S',
       observableColour: 'Dark Grey Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Carver, M. O. H', 'Crowfoot, E', 'Appleyard, H. M'],
+      author: ['Carver,M. O. H','Crowfoot,E','Appleyard,H. M'],
       year: 1974,
       title: 'Three Saxo-Norman Tenements in Durham City'
    }]
 },
-{ 
-   place: 'Durham', 
+{
+   place: 'Durham',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '172/1704/768414',
@@ -3552,16 +3403,15 @@ var textileDataSource = [
       weftTwist: 'S',
       observableColour: 'Plaid',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Carver, M. O. H', 'Crowfoot, E', 'Appleyard, H. M'],
+      author: ['Carver,M. O. H','Crowfoot,E','Appleyard,H. M'],
       year: 1974,
       title: 'Three Saxo-Norman Tenements in Durham City'
    }]
 },
-{ 
-   place: 'Durham', 
+{
+   place: 'Durham',
    fabricType: 'Wool',
    item: 'Textile',
    catalogueRef: '179/1744/768415',
@@ -3574,10 +3424,9 @@ var textileDataSource = [
       weftTwist: 'S',
       observableColour: 'Grey Brown',
       dyeStuff: ['none'],
-      
    }],
    source: [{
-      author: ['Carver, M. O. H', 'Crowfoot, E', 'Appleyard, H. M'],
+      author: ['Carver,M. O. H','Crowfoot,E','Appleyard,H. M'],
       year: 1974,
       title: 'Three Saxo-Norman Tenements in Durham City'
    }]
