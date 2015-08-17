@@ -478,7 +478,7 @@
       "warpFleeceType": "Hairy",
       "weft": 4,
       "weftTwist": "S",
-      "weftFleeceType": "hairy",
+      "weftFleeceType": "Hairy",
       "observableColour": "Dark Brown",
       "dyeStuff": [
          "none"
@@ -1746,7 +1746,9 @@
       "weft": 30,
       "weftTwist": "S",
       "observableColour": "Mid Brown",
-      "dyeStuff": "kermes",
+      "dyeStuff": [
+         "kermes"
+      ],
       "source": [
          {
             "author": [
@@ -2754,7 +2756,7 @@
       "weave": "Tabby",
       "warp": 10,
       "warpTwist": "Z",
-      "warpFleeceType": "Hairy medium",
+      "warpFleeceType": "Hairy Medium",
       "weft": 10,
       "weftTwist": "S",
       "weftFleeceType": "Generalised Medium",
@@ -3403,8 +3405,8 @@
       "weft": 14,
       "weftTwist": "S",
       "dyeStuff": [
-         "indigotin",
-         "madder"
+         "madder",
+         "indigotin"
       ],
       "source": [
          {
