@@ -388,7 +388,7 @@ var textileDataSource = [
       warpFleeceType: 'Hairy',
       weft: 4,
       weftTwist: 'S',
-      weftFleeceType: 'hairy',
+      weftFleeceType: 'Hairy',
       observableColour: 'Dark Brown',
       dyeStuff: ['none'],
       source: [
@@ -1404,7 +1404,7 @@ var textileDataSource = [
       weft: 30,
       weftTwist: 'S',
       observableColour: 'Mid Brown',
-      dyeStuff: 'kermes',
+      dyeStuff: ['kermes'],
       source: [
       {
          author: ['Walton-Rogers,P'],
@@ -2220,7 +2220,7 @@ var textileDataSource = [
       weave: 'Tabby',
       warp: 10,
       warpTwist: 'Z',
-      warpFleeceType: 'Hairy medium',
+      warpFleeceType: 'Hairy Medium',
       weft: 10,
       weftTwist: 'S',
       weftFleeceType: 'Generalised Medium',
@@ -2746,7 +2746,7 @@ var textileDataSource = [
       warpTwist: 'Z',
       weft: 14,
       weftTwist: 'S',
-      dyeStuff: ['indigotin', 'madder'],
+      dyeStuff: ['madder','indigotin'],
       source: [
       {
          author: ['Pritchard,F. A'],
