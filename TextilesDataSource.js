@@ -2,7 +2,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1257',
       date: '850-900',
       weave: 'Tabby',
@@ -24,7 +24,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1258',
       date: '850-900',
       weave: 'Tabby',
@@ -46,7 +46,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1259',
       date: '850-900',
       weave: 'Tabby',
@@ -68,7 +68,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1260',
       date: '850-900',
       weave: 'Tabby',
@@ -90,7 +90,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1261',
       date: '850-900',
       weave: 'Tabby',
@@ -110,7 +110,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1262',
       date: '850-900',
       weave: 'Tabby',
@@ -132,7 +132,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1263',
       date: '850-900',
       weave: '2/2 twill',
@@ -154,7 +154,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1264',
       date: '850-900',
       weave: '2/2 chevron twill',
@@ -176,7 +176,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1265',
       date: '850-900',
       weave: '2/2 twill',
@@ -197,7 +197,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1266',
       date: '850-900',
       weave: '2/2 twill',
@@ -217,7 +217,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1267',
       date: '850-900',
       weave: '2/2 chevron twill',
@@ -239,7 +239,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1268',
       date: '850-900',
       weave: '2/2 diamond twill',
@@ -259,7 +259,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1272',
       date: '850-900',
       weave: 'Tabby',
@@ -279,7 +279,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1272',
       date: '850-900',
       weave: 'Tabby',
@@ -299,7 +299,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1273',
       date: '850-900',
       weave: '2/2 twill',
@@ -319,7 +319,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1279',
       date: '900-935',
       weave: '2/2 chevron twill',
@@ -339,7 +339,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Silk',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1281',
       date: '900-935',
       weave: 'Tabby',
@@ -359,7 +359,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Silk',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1282',
       date: '900-935',
       weave: 'Tabby',
@@ -379,7 +379,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1295',
       date: '935-975',
       weave: 'Tabby',
@@ -401,7 +401,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1296',
       date: '935-975',
       weave: 'Tabby',
@@ -421,7 +421,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1297',
       date: '935-975',
       weave: 'Tabby',
@@ -443,7 +443,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1298',
       date: '935-975',
       weave: 'Tabby',
@@ -463,7 +463,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1299',
       date: '935-975',
       weave: 'Tabby',
@@ -483,7 +483,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1300',
       date: '935-975',
       weave: 'Tabby',
@@ -505,7 +505,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1301',
       date: '935-975',
       weave: '2/2 twill',
@@ -525,7 +525,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1302',
       date: '935-975',
       weave: '2/2 chevron twill',
@@ -547,7 +547,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1303',
       date: '935-975',
       weave: '2/2 chevron twill',
@@ -569,10 +569,10 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1304',
       date: '935-975',
-      weave: '2/2 chevron twill kreuzköper',
+      weave: 'Kreuzköper',
       warp: 10,
       warpTwist: 'Z',
       warpFleeceType: 'Hairy',
@@ -591,7 +591,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1305',
       date: '935-975',
       weave: '2/2 chevron twill',
@@ -613,7 +613,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1306',
       date: '935-975',
       weave: '2/2 chevron twill',
@@ -635,7 +635,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1307',
       date: '935-975',
       weave: '2/2 diamond twill',
@@ -657,7 +657,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1308',
       date: '935-975',
       weave: '2/2 diamond twill',
@@ -697,7 +697,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1317',
       date: '935-975',
       weave: 'Tabby',
@@ -717,7 +717,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1318',
       date: '935-975',
       weave: 'Tabby',
@@ -737,7 +737,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1319',
       date: '935-975',
       weave: 'Tabby',
@@ -757,7 +757,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1320',
       date: '935-975',
       weave: 'Tabby',
@@ -777,7 +777,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1321',
       date: '935-975',
       weave: 'Tabby',
@@ -797,7 +797,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1322',
       date: '935-975',
       weave: 'Tabby',
@@ -817,7 +817,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1323',
       date: '935-975',
       weave: 'Tabby',
@@ -837,7 +837,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1323',
       date: '935-975',
       weave: 'Tabby',
@@ -857,7 +857,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1324',
       date: '935-975',
       weave: 'Tabby',
@@ -877,7 +877,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1325',
       date: '935-975',
       weave: 'Tabby',
@@ -897,7 +897,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1326',
       date: '935-975',
       weave: 'Tabby',
@@ -917,7 +917,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1327',
       date: '935-975',
       weave: 'Tabby',
@@ -937,7 +937,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1328',
       date: '935-975',
       weave: 'Tabby',
@@ -957,7 +957,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1329',
       date: '935-975',
       weave: 'Tabby',
@@ -977,7 +977,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1330',
       date: '935-975',
       weave: 'Tabby',
@@ -997,7 +997,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1331',
       date: '935-975',
       weave: '2/1 twill',
@@ -1017,7 +1017,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1332',
       date: '935-975',
       weave: '2/2 twill',
@@ -1037,7 +1037,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1333',
       date: '935-975',
       weave: '2/1 chevron twill',
@@ -1057,7 +1057,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1334',
       date: '935-975',
       weave: '2/2 chevron twill',
@@ -1077,7 +1077,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1335',
       date: '935-975',
       weave: '2/2 chevron twill',
@@ -1097,7 +1097,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1336',
       date: '935-975',
       weave: 'Honeycomb',
@@ -1117,7 +1117,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Silk',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1341',
       date: '935-975',
       weave: 'Tabby',
@@ -1137,7 +1137,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Silk',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1342',
       date: '935-975',
       weave: 'Tabby',
@@ -1157,7 +1157,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Silk',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1343',
       date: '935-975',
       weave: 'Tabby',
@@ -1177,7 +1177,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Silk',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1344',
       date: '935-975',
       weave: 'Tabby',
@@ -1217,7 +1217,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Silk',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1346',
       date: '935-975',
       weave: 'Tabby',
@@ -1237,7 +1237,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Silk',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1347',
       date: '935-975',
       weave: 'Tabby',
@@ -1257,7 +1257,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Silk',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1348',
       date: '935-975',
       weave: 'Tabby',
@@ -1277,7 +1277,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Silk',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1349',
       date: '935-975',
       weave: 'Tabby',
@@ -1297,7 +1297,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Silk',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1350',
       date: '935-975',
       weave: 'Tabby',
@@ -1317,7 +1317,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Silk',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1351',
       date: '935-975',
       weave: 'Tabby',
@@ -1336,7 +1336,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Silk',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1352',
       date: '935-975',
       weave: 'Tabby',
@@ -1356,7 +1356,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Silk',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1353',
       date: '935-975',
       weave: 'Tabby',
@@ -1376,7 +1376,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Silk',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1354',
       date: '935-975',
       weave: 'Tabby',
@@ -1395,7 +1395,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Silk',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1355',
       date: '935-975',
       weave: 'Tabby',
@@ -1415,7 +1415,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1363',
       date: '975',
       weave: 'Tabby',
@@ -1435,7 +1435,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1364',
       date: '975',
       weave: 'Tabby',
@@ -1455,7 +1455,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1365',
       date: '975',
       weave: 'Tabby',
@@ -1475,7 +1475,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1366',
       date: '975',
       weave: 'Tabby',
@@ -1495,7 +1495,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1367',
       date: '975',
       weave: 'Tabby',
@@ -1515,7 +1515,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1368',
       date: '975',
       weave: 'Tabby',
@@ -1535,7 +1535,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1369',
       date: '975',
       weave: 'Tabby',
@@ -1555,7 +1555,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Silk',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1371',
       date: '975',
       weave: 'Tabby',
@@ -1595,7 +1595,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1379',
       date: '975-1050',
       weave: '2/2 twill',
@@ -1615,7 +1615,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1380',
       date: '975-1050',
       weave: '2/2 diamond twill',
@@ -1635,7 +1635,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1381',
       date: '975-1050',
       weave: '2/2 diamond twill',
@@ -1655,7 +1655,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1382',
       date: '975-1050',
       weave: '2/2 diamond twill',
@@ -1675,7 +1675,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1388',
       date: '975-1050',
       weave: 'Tabby',
@@ -1695,7 +1695,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1389',
       date: '975-1050',
       weave: 'Tabby',
@@ -1735,7 +1735,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1391',
       date: '975-1050',
       weave: 'Tabby',
@@ -1755,7 +1755,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1392',
       date: '975-1050',
       weave: 'Tabby',
@@ -1775,7 +1775,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1393',
       date: '975-1050',
       weave: 'Tabby',
@@ -1795,7 +1795,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1394',
       date: '975-1050',
       weave: 'Tabby',
@@ -1815,7 +1815,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1395',
       date: '975-1050',
       weave: 'Tabby',
@@ -1835,7 +1835,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1396',
       date: '975-1050',
       weave: 'Tabby',
@@ -1855,7 +1855,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1397',
       date: '975-1050',
       weave: 'Tabby',
@@ -1875,7 +1875,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1398',
       date: '975-1050',
       weave: 'Tabby',
@@ -1895,7 +1895,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1399',
       date: '975-1050',
       weave: 'Tabby',
@@ -1915,7 +1915,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1400',
       date: '975-1050',
       weave: 'Tabby',
@@ -1935,7 +1935,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1401',
       date: '975-1050',
       weave: 'Tabby',
@@ -1955,7 +1955,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1402',
       date: '975-1050',
       weave: 'Tabby',
@@ -1975,7 +1975,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1403',
       date: '975-1050',
       weave: '2/2 twill',
@@ -1995,7 +1995,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1404',
       date: '975-1050',
       weave: '2/2 diamond twill',
@@ -2015,7 +2015,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Silk',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1407',
       date: '975-1050',
       weave: 'Tabby',
@@ -2035,7 +2035,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1411',
       date: '700-1100',
       weave: 'Tabby',
@@ -2055,7 +2055,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1460',
       date: '700-1100',
       weave: 'Tabby',
@@ -2077,7 +2077,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1462',
       date: '700-1100',
       weave: '2/2 twill',
@@ -2097,7 +2097,7 @@ var textileDataSource = [
    {
       place: 'Kingston Down',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: 'Liverpool Museum 6188',
       date: '450-1100',
       weave: '2/2 twill',
@@ -2115,7 +2115,7 @@ var textileDataSource = [
    {
       place: 'Sibertswold Down',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: 'Liverpool Museum AS 14',
       date: '450-1100',
       weave: 'Tabby',
@@ -2133,7 +2133,7 @@ var textileDataSource = [
    {
       place: 'unknown',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: 'Liverpool Museum AS 9',
       date: '450-1100',
       weave: 'Tabby',
@@ -2151,7 +2151,7 @@ var textileDataSource = [
    {
       place: 'unknown',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: 'Liverpool Museum AS 9',
       date: '450-1100',
       weave: '2/2 chevron twill',
@@ -2169,7 +2169,7 @@ var textileDataSource = [
    {
       place: 'unknown',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: 'Liverpool Museum AS 8',
       date: '450-1100',
       weave: '2/2 chevron twill',
@@ -2193,7 +2193,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '1',
       date: '850-1100',
       weave: 'Tabby',
@@ -2214,7 +2214,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '2',
       date: '850-1100',
       weave: 'Tabby',
@@ -2235,7 +2235,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '3',
       date: '850-1100',
       weave: 'Tabby',
@@ -2256,7 +2256,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '4',
       date: '850-1100',
       weave: 'Tabby',
@@ -2277,7 +2277,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '5',
       date: '850-1100',
       weave: 'Tabby',
@@ -2298,7 +2298,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '6',
       date: '850-1100',
       weave: 'Tabby',
@@ -2319,7 +2319,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '8',
       date: '850-1100',
       weave: 'Tabby',
@@ -2340,7 +2340,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '9',
       date: '850-1100',
       weave: 'Tabby',
@@ -2364,7 +2364,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '10',
       date: '850-1100',
       weave: '2/2 lozenge twill',
@@ -2385,7 +2385,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '11',
       date: '850-1100',
       weave: '2/2 lozenge twill',
@@ -2406,7 +2406,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '12',
       date: '850-1100',
       weave: '2/2 lozenge twill',
@@ -2427,7 +2427,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '13',
       date: '850-1100',
       weave: '2/2 lozenge twill',
@@ -2448,7 +2448,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '14',
       date: '850-1100',
       weave: '2/2 lozenge twill',
@@ -2467,7 +2467,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '15',
       date: '850-1100',
       weave: '2/2 lozenge twill',
@@ -2488,7 +2488,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '16',
       date: '850-1100',
       weave: '2/2 lozenge twill',
@@ -2509,7 +2509,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '17',
       date: '850-1100',
       weave: '2/2 twill',
@@ -2530,7 +2530,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '18',
       date: '850-1100',
       weave: '2/2 chevron twill',
@@ -2551,7 +2551,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '19',
       date: '850-1100',
       weave: '2/2 chevron twill',
@@ -2572,7 +2572,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '20',
       date: '850-1100',
       weave: '2/2 chevron twill',
@@ -2593,7 +2593,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '21',
       date: '850-1100',
       weave: '2/2 chevron twill',
@@ -2614,7 +2614,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '22',
       date: '850-1100',
       weave: '2/2 chevron twill',
@@ -2635,7 +2635,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '23',
       date: '850-1100',
       weave: '2/2 chevron twill',
@@ -2654,7 +2654,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '24',
       date: '850-1100',
       weave: '2/2 twill',
@@ -2675,7 +2675,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '25',
       date: '850-1100',
       weave: '2/1 twill',
@@ -2696,7 +2696,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '26',
       date: '850-1100',
       weave: '2/1 twill',
@@ -2717,7 +2717,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '27',
       date: '850-1100',
       weave: '2/1 twill',
@@ -2738,7 +2738,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '28',
       date: '850-1100',
       weave: '2/1 lozenge twill',
@@ -2757,7 +2757,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '29',
       date: '850-1100',
       weave: '2/1 lozenge twill',
@@ -2776,7 +2776,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Goat Hair',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '31',
       date: '850-1100',
       weave: 'Tabby',
@@ -2795,7 +2795,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Goat Hair',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '32',
       date: '850-1100',
       weave: '2/1 twill',
@@ -2814,7 +2814,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Goat Hair',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '33',
       date: '850-1100',
       weave: '2/1 twill',
@@ -2833,7 +2833,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Silk',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '34',
       date: '850-1100',
       weave: 'Tabby',
@@ -2852,7 +2852,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Silk',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '35',
       date: '850-1100',
       weave: 'Tabby',
@@ -2871,7 +2871,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Silk',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '34',
       date: '850-1100',
       weave: 'Tabby',
@@ -2890,7 +2890,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '40',
       date: '850-1100',
       weave: 'Tabby',
@@ -2909,7 +2909,7 @@ var textileDataSource = [
    {
       place: 'London',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '41',
       date: '850-1100',
       weave: 'Tabby',
@@ -2931,7 +2931,7 @@ var textileDataSource = [
    {
       place: 'Kneep',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: 'OvalBrooch 1 Fragment 1',
       date: '850-1100',
       weave: 'Tabby',
@@ -2950,7 +2950,7 @@ var textileDataSource = [
    {
       place: 'Kneep',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: 'OvalBrooch 1 Fragment 2',
       date: '850-1100',
       weave: 'Tabby',
@@ -2969,7 +2969,7 @@ var textileDataSource = [
    {
       place: 'Kneep',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: 'OvalBrooch 2 Fragment 1',
       date: '850-1100',
       weave: 'Tabby',
@@ -2988,7 +2988,7 @@ var textileDataSource = [
    {
       place: 'Kneep',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: 'OvalBrooch 2 Fragment 2',
       date: '850-1100',
       weave: 'Tabby',
@@ -3007,7 +3007,7 @@ var textileDataSource = [
    {
       place: 'Kneep',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: 'Loose',
       date: '850-1100',
       weave: 'Tabby',
@@ -3026,7 +3026,7 @@ var textileDataSource = [
    {
       place: 'Kneep',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: 'Loose 2',
       date: '850-1100',
       weave: 'Tabby',
@@ -3045,7 +3045,7 @@ var textileDataSource = [
    {
       place: 'Kneep',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: 'Bronze Belt Buckle Fragment',
       date: '850-1100',
       weave: '2/2 diamond twill',
@@ -3069,7 +3069,7 @@ var textileDataSource = [
    {
       place: 'Adwick-le-Street',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: 'Brooch Fabric',
       date: '900-1050',
       weave: 'Tabby',
@@ -3088,7 +3088,7 @@ var textileDataSource = [
    {
       place: 'Adwick-le-Street',
       fabricType: 'Veg',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: 'Brooch Loop',
       date: '900-1050',
       weave: 'Tabby',
@@ -3112,7 +3112,7 @@ var textileDataSource = [
    {
       place: 'Durham',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '142/1685/766466',
       date: '850-1100',
       weave: '2/1 twill',
@@ -3132,7 +3132,7 @@ var textileDataSource = [
    {
       place: 'Durham',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '166/1685/768413',
       date: '850-1100',
       weave: 'Felt',
@@ -3152,7 +3152,7 @@ var textileDataSource = [
    {
       place: 'Durham',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '17/1575/768410',
       date: '850-1100',
       weave: '2/1 twill',
@@ -3172,7 +3172,7 @@ var textileDataSource = [
    {
       place: 'Durham',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '91/1581/766463',
       date: '850-1100',
       weave: '2/1 twill',
@@ -3192,7 +3192,7 @@ var textileDataSource = [
    {
       place: 'Durham',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '103/1633/766464',
       date: '850-1100',
       weave: '2/1 twill',
@@ -3212,7 +3212,7 @@ var textileDataSource = [
    {
       place: 'Durham',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '121/1639/766465',
       date: '850-1100',
       weave: '2/1 twill',
@@ -3232,7 +3232,7 @@ var textileDataSource = [
    {
       place: 'Durham',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '172/1704/768414',
       date: '850-1100',
       weave: '2/1 twill',
@@ -3252,7 +3252,7 @@ var textileDataSource = [
    {
       place: 'Durham',
       fabricType: 'Wool',
-      item: 'Textile',
+      item: 'Textile Fragment',
       catalogueRef: '179/1744/768415',
       date: '850-1100',
       weave: '2/1 twill',
@@ -3267,6 +3267,1233 @@ var textileDataSource = [
          author: ['Carver,M. O. H', 'Crowfoot,E', 'Appleyard,H. M'],
          year: 1974,
          title: 'Three Saxo-Norman Tenements in Durham City'
+      }]
+   },
+   {
+      place: 'Cnoc nan Gall, Colonsay',
+      fabricType: 'Veg',
+      item: 'Textile Fragment',
+      catalogueRef: 'SF10',
+      date: '850-1000',
+      weave: 'Tabby',
+      warp: 12,
+      warpTwist: 'Z',
+      weft: 10,
+      weftTwist: 'Z',
+      observableColour: 'Blue-Green',
+      dyeStuff: ['none'],
+      note: 'Blue-Green from adhesion to copper alloy.',
+      source: [
+      {
+         author: ['Walton-Rogers, P', 'Becket, A', 'Batey, C. E'],
+         year: 2013,
+         title: 'A stranger in the dunes? Rescue excavation of a Viking Age burial at Cnoc nan Gall, Colonsay'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Scarf',
+      catalogueRef: 'DHC1',
+      date: '950-1050',
+      weave: 'Tabby',
+      warp: 15,
+      warpTwist: 'Z',
+      weft: 11,
+      weftTwist: 'Z',
+      observableColour: 'Dark Reddish Brown',
+      dyeStuff: ['Ellagic acid present (tannins)'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Scarf',
+      catalogueRef: 'DHC2',
+      date: '900-950',
+      weave: 'Tabby',
+      warp: 24,
+      warpTwist: 'Z',
+      weft: 15,
+      weftTwist: 'Z',
+      observableColour: 'Dark Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Scarf',
+      catalogueRef: 'DHC3',
+      date: '900-950',
+      weave: 'Tabby',
+      warp: 13,
+      warpTwist: 'Z',
+      weft: 9,
+      weftTwist: 'Z',
+      observableColour: 'Dark Reddish Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Scarf',
+      catalogueRef: 'DHC4',
+      date: '900-950',
+      weave: 'Tabby',
+      warp: 19,
+      warpTwist: 'Z',
+      weft: 11,
+      weftTwist: 'Z',
+      observableColour: 'Dark Reddish Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Scarf',
+      catalogueRef: 'DHC5',
+      date: '900-950',
+      weave: 'Tabby',
+      warp: 13,
+      warpTwist: 'Z',
+      weft: 11,
+      weftTwist: 'Z',
+      observableColour: 'Very Dusky Red',
+      dyeStuff: ['Iron mordant present'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Scarf',
+      catalogueRef: 'DHC6',
+      date: '900-950',
+      weave: 'Tabby',
+      warp: 15,
+      warpTwist: 'Z',
+      weft: 9,
+      weftTwist: 'Z',
+      observableColour: 'Very Dusky Red',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Scarf',
+      catalogueRef: 'DHC7',
+      date: '900-950',
+      weave: 'Tabby',
+      warp: 14,
+      warpTwist: 'Z',
+      weft: 9,
+      weftTwist: 'Z',
+      observableColour: 'Dark Reddish Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Silk',
+      item: 'Scarf',
+      catalogueRef: 'DHC8',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 22,
+      warpTwist: 'Z',
+      weft: 16,
+      weftTwist: 'Z',
+      observableColour: 'Reddish Brown',
+      dyeStuff: ['madder'],
+      note: 'Crepe effect',
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Silk',
+      item: 'Scarf',
+      catalogueRef: 'DHC9',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 19,
+      warpTwist: 'Z',
+      weft: 16,
+      weftTwist: 'Z',
+      observableColour: 'Reddish Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Silk',
+      item: 'Scarf',
+      catalogueRef: 'DHC10',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 16,
+      warpTwist: 'Z',
+      weft: 12,
+      weftTwist: 'Z',
+      observableColour: 'Dark Reddish Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Silk',
+      item: 'Scarf',
+      catalogueRef: 'DHC11',
+      date: '900-950',
+      weave: 'Tabby',
+      warp: 19,
+      warpTwist: 'Z',
+      weft: 13,
+      weftTwist: 'Z',
+      observableColour: 'Very Dusky Red',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Silk',
+      item: 'Scarf',
+      catalogueRef: 'DHC12',
+      date: '900-1000',
+      weave: 'Tabby',
+      warp: 17,
+      warpTwist: 'Z',
+      weft: 11,
+      weftTwist: 'Z',
+      observableColour: 'Dark Yellowish Brown',
+      dyeStuff: ['indigotin'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Silk',
+      item: 'Scarf',
+      catalogueRef: 'DHC13',
+      date: '800-1100',
+      weave: 'Tabby',
+      warp: 30,
+      warpTwist: 'Z',
+      weft: 19,
+      weftTwist: 'Z',
+      observableColour: 'Reddish Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Scarf',
+      catalogueRef: 'DHC14',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 14,
+      warpTwist: 'Z',
+      weft: 11,
+      weftTwist: 'Z',
+      observableColour: 'Dark Reddish Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Scarf',
+      catalogueRef: 'DHC15',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 11,
+      warpTwist: 'Z',
+      weft: 11,
+      weftTwist: 'Z',
+      observableColour: 'Very Dusky Red',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Scarf',
+      catalogueRef: 'DHC16',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 18,
+      warpTwist: 'Z',
+      weft: 16,
+      weftTwist: 'Z',
+      observableColour: 'Dark Reddish Brown',
+      dyeStuff: ['Iron mordant present'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Silk',
+      item: 'Veil',
+      catalogueRef: 'DHC17',
+      date: '1000-1050',
+      weave: 'Tabby',
+      warp: 15,
+      warpTwist: 'Z',
+      weft: 10,
+      weftTwist: 'Z',
+      observableColour: 'Reddish Brown',
+      dyeStuff: ['lichen purple'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Band',
+      catalogueRef: 'DHC18',
+      date: '1050-1100',
+      weave: 'Tabby',
+      warp: 12,
+      warpTwist: 'Z',
+      weft: 11,
+      weftTwist: 'Z',
+      observableColour: 'Black',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Band',
+      catalogueRef: 'DHC19',
+      date: '1000-1050',
+      weave: 'Tabby',
+      warp: 14,
+      warpTwist: 'Z',
+      weft: 11,
+      weftTwist: 'Z',
+      observableColour: 'Black',
+      dyeStuff: ['Iron mordant present'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Band',
+      catalogueRef: 'DHC20',
+      date: '1000-1050',
+      weave: 'Tabby',
+      warp: 11,
+      warpTwist: 'Z',
+      weft: 12,
+      weftTwist: 'Z',
+      observableColour: 'Black',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Band',
+      catalogueRef: 'DHC21',
+      date: '950-1050',
+      weave: 'Tabby',
+      warp: 11,
+      warpTwist: 'Z',
+      weft: 11,
+      weftTwist: 'Z',
+      observableColour: 'Black',
+      dyeStuff: ['Iron mordant present'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Band',
+      catalogueRef: 'DHC22',
+      date: '1000-1050',
+      weave: 'Tabby',
+      warp: 13,
+      warpTwist: 'Z',
+      weft: 17,
+      weftTwist: 'Z',
+      observableColour: 'Dark Brown',
+      dyeStuff: ['Iron mordant present'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Band',
+      catalogueRef: 'DHC23',
+      date: '800-1100',
+      weave: 'Tabby',
+      warp: 11,
+      warpTwist: 'Z',
+      weft: 11,
+      weftTwist: 'Z',
+      observableColour: 'Very Dark Grey',
+      dyeStuff: ['Chlorophyll present'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Band',
+      catalogueRef: 'DHC24',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 11,
+      warpTwist: 'Z',
+      weft: 12,
+      weftTwist: 'Z',
+      observableColour: 'Dark Reddish Brown',
+      dyeStuff: ['none'],
+      note: 'Includes a silk tie forming a complete headband.',
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Silk',
+      item: 'Band',
+      catalogueRef: 'DHC25',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 17,
+      warpTwist: 'Z',
+      weft: 8,
+      weftTwist: 'Z',
+      observableColour: 'Dark Reddish Brown',
+      dyeStuff: ['madder'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Silk',
+      item: 'Band',
+      catalogueRef: 'DHC26',
+      date: '1000-1050',
+      weave: 'Tabby',
+      warp: 32,
+      warpTwist: 'Z',
+      weft: 25,
+      weftTwist: 'Z',
+      observableColour: 'Dark Reddish Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Silk',
+      item: 'Band',
+      catalogueRef: 'DHC27',
+      date: '900-950',
+      weave: 'Tabby',
+      warp: 38,
+      warpTwist: 'Z',
+      weft: 19,
+      weftTwist: 'Z',
+      observableColour: 'Brown',
+      dyeStuff: ['none'],
+      note: 'Two bands, knotted',
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Silk',
+      item: 'Band',
+      catalogueRef: 'DHC28',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 36,
+      warpTwist: 'Z',
+      weft: 30,
+      weftTwist: 'Z',
+      observableColour: 'Yellowish Brown',
+      dyeStuff: ['none'],
+      note: 'Three bands, knotted',
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Scarf',
+      catalogueRef: 'DHC29',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 15,
+      warpTwist: 'Z',
+      weft: 13,
+      weftTwist: 'Z',
+      observableColour: 'Dark Reddish Brown',
+      dyeStuff: ['none'],
+      note: 'Two bands, knotted',
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Cap',
+      catalogueRef: 'DHC30',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 14,
+      warpTwist: 'Z',
+      weft: 15,
+      weftTwist: 'Z',
+      observableColour: 'Dark Reddish Brown',
+      dyeStuff: ['Iron mordant present'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Cap',
+      catalogueRef: 'DHC31',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 14,
+      warpTwist: 'Z',
+      weft: 15,
+      weftTwist: 'Z',
+      observableColour: 'Dark Reddish Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Cap',
+      catalogueRef: 'DHC32',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 14,
+      warpTwist: 'Z',
+      weft: 11,
+      weftTwist: 'Z',
+      observableColour: 'Dark Reddish Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Cap',
+      catalogueRef: 'DHC33',
+      date: '900-950',
+      weave: 'Tabby',
+      warp: 12,
+      warpTwist: 'Z',
+      weft: 9,
+      weftTwist: 'Z',
+      observableColour: 'Very Dark Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Cap',
+      catalogueRef: 'DHC34',
+      date: '800-1100',
+      weave: 'Tabby',
+      warp: 16,
+      warpTwist: 'Z',
+      weft: 10,
+      weftTwist: 'Z',
+      observableColour: 'Black',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Cap',
+      catalogueRef: 'DHC35',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 16,
+      warpTwist: 'Z',
+      weft: 10,
+      weftTwist: 'Z',
+      observableColour: 'Very Dark Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Cap',
+      catalogueRef: 'DHC36',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 18,
+      warpTwist: 'Z',
+      weft: 14,
+      weftTwist: 'Z',
+      observableColour: 'Dark Reddish Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Cap',
+      catalogueRef: 'DHC37',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 19,
+      warpTwist: 'Z',
+      weft: 22,
+      weftTwist: 'Z',
+      observableColour: 'Light Olive Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Silk',
+      item: 'Cap',
+      catalogueRef: 'DHC38',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 32,
+      warpTwist: 'Z',
+      weft: 21,
+      weftTwist: 'I',
+      observableColour: 'Dark Yellowish Brown',
+      dyeStuff: ['none'],
+      note: 'Has two silk patches.',
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Silk',
+      item: 'Cap',
+      catalogueRef: 'DHC39',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 19,
+      warpTwist: 'Z',
+      weft: 19,
+      weftTwist: 'I',
+      observableColour: 'Dark Yellowish Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Silk',
+      item: 'Cap',
+      catalogueRef: 'DHC40',
+      date: '900-950',
+      weave: 'Tabby',
+      warp: 30,
+      warpTwist: 'Z',
+      weft: 19,
+      weftTwist: 'Z',
+      observableColour: 'Dark Reddish Grey',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Cap',
+      catalogueRef: 'DHC41',
+      date: '1000-1050',
+      weave: 'Tabby',
+      warp: 14,
+      warpTwist: 'Z',
+      weft: 8,
+      weftTwist: 'Z',
+      observableColour: 'Dark Reddish Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Cap',
+      catalogueRef: 'DHC42',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 14,
+      warpTwist: 'Z',
+      weft: 11,
+      weftTwist: 'Z',
+      observableColour: 'Dark Reddish Brown',
+      dyeStuff: ['Iron mordant present'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Cap',
+      catalogueRef: 'DHC43',
+      date: '1000-1050',
+      weave: 'Tabby',
+      warp: 12,
+      warpTwist: 'Z',
+      weft: 9,
+      weftTwist: 'Z',
+      observableColour: 'Very Dark Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Cap',
+      catalogueRef: 'DHC44',
+      date: '1050-1100',
+      weave: 'Tabby',
+      warp: 14,
+      warpTwist: 'Z',
+      weft: 9,
+      weftTwist: 'Z',
+      observableColour: 'Dark Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Textile Fragment',
+      catalogueRef: 'DHC46',
+      date: '950-1050',
+      weave: 'Tabby',
+      warp: 14,
+      warpTwist: 'Z',
+      weft: 13,
+      weftTwist: 'Z',
+      observableColour: 'Dark Reddish Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Silk',
+      item: 'Textile Fragment',
+      catalogueRef: 'DHC47',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 17,
+      warpTwist: 'Z',
+      weft: 24,
+      weftTwist: 'I',
+      observableColour: 'Light Olive Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Textile Fragment',
+      catalogueRef: 'DHC48',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 18,
+      warpTwist: 'Z',
+      weft: 15,
+      weftTwist: 'Z',
+      observableColour: 'Very Dark Greyish Brown',
+      dyeStuff: ['Ellagic acid present (tannins)'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Textile Fragment',
+      catalogueRef: 'DHC49',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 12,
+      warpTwist: 'Z',
+      weft: 10,
+      weftTwist: 'Z',
+      observableColour: 'Dark Reddish Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Textile Fragment',
+      catalogueRef: 'DHC50',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 15,
+      warpTwist: 'Z',
+      weft: 15,
+      weftTwist: 'Z',
+      observableColour: 'Dark Reddish Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Textile Fragment',
+      catalogueRef: 'DHC51',
+      date: '950-1050',
+      weave: 'Tabby',
+      warp: 13,
+      warpTwist: 'Z',
+      weft: 13,
+      weftTwist: 'Z',
+      observableColour: 'Dark Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Textile Fragment',
+      catalogueRef: 'DHC52',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 15,
+      warpTwist: 'Z',
+      weft: 11,
+      weftTwist: 'Z',
+      observableColour: 'Very Dark Greyish Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Textile Fragment',
+      catalogueRef: 'DHC53',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 15,
+      warpTwist: 'Z',
+      weft: 14,
+      weftTwist: 'Z',
+      observableColour: 'Dark Reddish Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Textile Fragment',
+      catalogueRef: 'DHC54',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 10,
+      warpTwist: 'Z',
+      weft: 10,
+      weftTwist: 'Z',
+      observableColour: 'Dark Reddish Brown',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Textile Fragment',
+      catalogueRef: 'DHC55',
+      date: '950-1050',
+      weave: 'Tabby',
+      warp: 12,
+      warpTwist: 'Z',
+      weft: 11,
+      weftTwist: 'Z',
+      observableColour: 'Black',
+      dyeStuff: ['Iron mordant present'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Textile Fragment',
+      catalogueRef: 'DHC56',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 12,
+      warpTwist: 'Z',
+      weft: 8,
+      weftTwist: 'Z',
+      observableColour: 'Dark Reddish Brown',
+      dyeStuff: ['Iron mordant present'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Wool',
+      item: 'Textile Fragment',
+      catalogueRef: 'DHC57',
+      date: '950-1000',
+      weave: 'Tabby',
+      warp: 15,
+      warpTwist: 'Z',
+      weft: 13,
+      weftTwist: 'Z',
+      observableColour: 'Black',
+      dyeStuff: ['none'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Silk',
+      item: 'Textile Fragment',
+      catalogueRef: 'DHC58',
+      date: '1000-1100',
+      weave: 'Tabby',
+      warp: 24,
+      warpTwist: 'Z',
+      weft: 26,
+      weftTwist: 'I',
+      observableColour: 'Brown',
+      dyeStuff: ['None'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Silk',
+      item: 'Textile Fragment',
+      catalogueRef: 'DHC59',
+      date: '950-100',
+      weave: 'Tabb5y',
+      warp: 28,
+      warpTwist: 'Z',
+      weft: 26,
+      weftTwist: 'I',
+      observableColour: 'Dark Reddish Brown',
+      dyeStuff: ['None'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Silk',
+      item: 'Textile Fragment',
+      catalogueRef: 'DHC60',
+      date: '1000-1050',
+      weave: 'Tabby',
+      warp: 32,
+      warpTwist: 'Z',
+      weft: 41,
+      weftTwist: 'I',
+      observableColour: 'Brown',
+      dyeStuff: ['None'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
+      }]
+   },
+   {
+      place: 'Dublin',
+      fabricType: 'Silk',
+      item: 'Textile Fragment',
+      catalogueRef: 'DHC61',
+      date: '1000-1050',
+      weave: 'Tabby',
+      warp: 48,
+      warpTwist: 'I',
+      weft: 11,
+      weftTwist: 'I',
+      observableColour: 'Dark Brown',
+      dyeStuff: ['None'],
+      source: [
+      {
+         author: ['Heckett, E'],
+         year: 2003,
+         title: 'Viking Age Headcoverings from Dublin'
       }]
    }
 ];
