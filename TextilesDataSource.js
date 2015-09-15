@@ -4495,5 +4495,329 @@ var textileDataSource = [
          year: 2003,
          title: 'Viking Age Headcoverings from Dublin'
       }]
-   }
+   },
+   {
+      place: 'Cumwhitton',
+      fabricType: 'Wool',
+      item: 'Textile Fragment',
+      catalogueRef: 'Grave 1 - 1',
+      date: '900-1000',
+      weave: 'Tabby',
+      warp: 10,
+      warpTwist: 'Z',
+      warpFleeceType: 'Hairy',
+      weft: 16,
+      weftTwist: 'S',
+      weftFleeceType: 'Hairy',
+      observableColour: 'White',
+      dyeStuff: ['None'],
+      note: 'Determined to be made from white fleece. Found on the rivets, key and base of the box.',
+      source: [
+      {
+         author: ['Paterson, c', 'Parsons, A', 'Newman, R', 'Johnson, N', 'Howard Davis, C'],
+         year: 2014,
+         title: 'Shadows in the Sand: Excavation of a Viking-Age Cemetary at Cumwhitton, Cumbria'
+      }]
+   },
+   {
+      place: 'Cumwhitton',
+      fabricType: 'Wool',
+      item: 'Textile Fragment',
+      catalogueRef: 'Grave 1 - 2',
+      date: '900-1000',
+      weave: 'Unidentified',
+      warp: 5,
+      warpTwist: 'Z',
+      warpFleeceType: 'Hairy',
+      weft: 3,
+      weftTwist: 'S',
+      weftFleeceType: 'Hairy',
+      observableColour: 'White',
+      dyeStuff: ['None'],
+      note: 'On Handle of Knife',
+      source: [
+      {
+         author: ['Paterson, c', 'Parsons, A', 'Newman, R', 'Johnson, N', 'Howard Davis, C'],
+         year: 2014,
+         title: 'Shadows in the Sand: Excavation of a Viking-Age Cemetary at Cumwhitton, Cumbria'
+      }]
+   },
+   {
+      place: 'Cumwhitton',
+      fabricType: 'Veg',
+      item: 'Textile Fragment',
+      catalogueRef: 'Grave 1 - 4',
+      date: '900-1000',
+      weave: 'Tabby',
+      warp: 12,
+      warpTwist: 'Z',
+      weft: 6,
+      weftTwist: 'Z',
+      dyeStuff: ['None'],
+      note: 'On Box fittings',
+      source: [
+      {
+         author: ['Paterson, c', 'Parsons, A', 'Newman, R', 'Johnson, N', 'Howard Davis, C'],
+         year: 2014,
+         title: 'Shadows in the Sand: Excavation of a Viking-Age Cemetary at Cumwhitton, Cumbria'
+      }]
+   },
+   {
+      place: 'Cumwhitton',
+      fabricType: 'Veg',
+      item: 'Textile Fragment',
+      catalogueRef: 'Grave 1 - 5',
+      date: '900-1000',
+      weave: 'Tabby',
+      warp: 16,
+      warpTwist: 'Z',
+      weft: 10,
+      weftTwist: 'Z',
+      dyeStuff: ['None'],
+      note: 'On strap end',
+      source: [
+      {
+         author: ['Paterson, c', 'Parsons, A', 'Newman, R', 'Johnson, N', 'Howard Davis, C'],
+         year: 2014,
+         title: 'Shadows in the Sand: Excavation of a Viking-Age Cemetary at Cumwhitton, Cumbria'
+      }]
+   },
+   {
+      place: 'Cumwhitton',
+      fabricType: 'Veg',
+      item: 'Textile Fragment',
+      catalogueRef: 'Oval Brooches',
+      date: '900-1000',
+      weave: 'Tabby',
+      warp: 20,
+      warpTwist: 'Z',
+      weft: 10,
+      weftTwist: 'Z',
+      dyeStuff: ['None'],
+      note: 'Folded Straps 10mm wide in pin hinge and catch of oval brooch.',
+      source: [
+      {
+         author: ['Paterson, c', 'Parsons, A', 'Newman, R', 'Johnson, N', 'Howard Davis, C'],
+         year: 2014,
+         title: 'Shadows in the Sand: Excavation of a Viking-Age Cemetary at Cumwhitton, Cumbria'
+      }]
+   },
+   {
+      place: 'Cumwhitton',
+      fabricType: 'Veg',
+      item: 'Textile Fragment',
+      catalogueRef: 'Oval Brooches 2',
+      date: '900-1000',
+      weave: 'Tabby',
+      warp: 36,
+      warpTwist: 'Z',
+      weft: 30,
+      weftTwist: 'Z',
+      dyeStuff: ['None'],
+      note: 'On back of brooch and a loose fragment',
+      source: [
+      {
+         author: ['Paterson, c', 'Parsons, A', 'Newman, R', 'Johnson, N', 'Howard Davis, C'],
+         year: 2014,
+         title: 'Shadows in the Sand: Excavation of a Viking-Age Cemetary at Cumwhitton, Cumbria'
+      }]
+   },
+   {
+      place: 'Cumwhitton',
+      fabricType: 'Veg',
+      item: 'Textile Fragment',
+      catalogueRef: 'Grave 2 - 1',
+      date: '900-1000',
+      weave: 'Tabby',
+      warp: 12,
+      warpTwist: 'Z',
+      weft: 12,
+      weftTwist: 'Z',
+      dyeStuff: ['None'],
+      note: 'On face of object',
+      source: [
+      {
+         author: ['Paterson, c', 'Parsons, A', 'Newman, R', 'Johnson, N', 'Howard Davis, C'],
+         year: 2014,
+         title: 'Shadows in the Sand: Excavation of a Viking-Age Cemetary at Cumwhitton, Cumbria'
+      }]
+   },
+   {
+      place: 'Cumwhitton',
+      fabricType: 'Veg',
+      item: 'Textile Fragment',
+      catalogueRef: 'Grave 2 - 2',
+      date: '900-1000',
+      weave: 'Tabby',
+      warp: 15,
+      warpTwist: 'Z',
+      weft: 11,
+      weftTwist: 'Z',
+      dyeStuff: ['None'],
+      note: 'On face of strap end',
+      source: [
+      {
+         author: ['Paterson, c', 'Parsons, A', 'Newman, R', 'Johnson, N', 'Howard Davis, C'],
+         year: 2014,
+         title: 'Shadows in the Sand: Excavation of a Viking-Age Cemetary at Cumwhitton, Cumbria'
+      }]
+   },
+   {
+      place: 'Cumwhitton',
+      fabricType: 'Animal Fibre',
+      item: 'Pelt',
+      catalogueRef: 'Grave 2 -3',
+      date: '900-1000',
+      weave: 'Long-Fibred',
+      note: 'Could be seal skin, adhered inside the buckle plate and on back of strap end.',
+      source: [
+      {
+         author: ['Paterson, c', 'Parsons, A', 'Newman, R', 'Johnson, N', 'Howard Davis, C'],
+         year: 2014,
+         title: 'Shadows in the Sand: Excavation of a Viking-Age Cemetary at Cumwhitton, Cumbria'
+      }]
+   },
+   {
+      place: 'Cumwhitton',
+      fabricType: 'Animal Fibre',
+      item: 'Pelt',
+      catalogueRef: 'Grave 4 - 4',
+      date: '900-1000',
+      weave: 'Short-Fibred',
+      note: 'On sword blade inside wooden scabbard.',
+      source: [
+      {
+         author: ['Paterson, c', 'Parsons, A', 'Newman, R', 'Johnson, N', 'Howard Davis, C'],
+         year: 2014,
+         title: 'Shadows in the Sand: Excavation of a Viking-Age Cemetary at Cumwhitton, Cumbria'
+      }]
+   },
+     {
+      place: 'Cumwhitton',
+      fabricType: 'Wool',
+      item: 'Textile Fragment',
+      catalogueRef: 'Grave 5 - 2',
+      date: '900-1000',
+      weave: '2/2 twill',
+      warp: 12,
+      warpTwist: 'Z',
+      warpFleeceType: 'Hairy',
+      weft: 10,
+      weftTwist: 'S',
+      weftFleeceType: 'Hairy',
+      observableColour: 'White',
+      dyeStuff: ['None'],
+      note: 'On outer spur arm',
+      source: [
+      {
+         author: ['Paterson, c', 'Parsons, A', 'Newman, R', 'Johnson, N', 'Howard Davis, C'],
+         year: 2014,
+         title: 'Shadows in the Sand: Excavation of a Viking-Age Cemetary at Cumwhitton, Cumbria'
+      }]
+   },
+   {
+      place: 'Cumwhitton',
+      fabricType: 'Veg',
+      item: 'Textile Fragment',
+      catalogueRef: 'Grave 5 - 3',
+      date: '900-1000',
+      weave: 'Tabby',
+      warp: 24,
+      warpTwist: 'Z',
+      weft: 10,
+      weftTwist: 'Z',
+      dyeStuff: ['None'],
+      note: 'On back of strap end',
+      source: [
+      {
+         author: ['Paterson, c', 'Parsons, A', 'Newman, R', 'Johnson, N', 'Howard Davis, C'],
+         year: 2014,
+         title: 'Shadows in the Sand: Excavation of a Viking-Age Cemetary at Cumwhitton, Cumbria'
+      }]
+   },
+   {
+      place: 'Cumwhitton',
+      fabricType: 'Animal Fibre',
+      item: 'Pelt',
+      catalogueRef: 'Grave 5 - 4',
+      date: '900-1000',
+      weave: 'Long-Fibred',
+      note: 'Long fibred on tip of spear head and spur.',
+      source: [
+      {
+         author: ['Paterson, c', 'Parsons, A', 'Newman, R', 'Johnson, N', 'Howard Davis, C'],
+         year: 2014,
+         title: 'Shadows in the Sand: Excavation of a Viking-Age Cemetary at Cumwhitton, Cumbria'
+      }]
+   },
+   {
+      place: 'Cumwhitton',
+      fabricType: 'Animal Fibre',
+      item: 'Pelt',
+      catalogueRef: 'Grave 5 - 5',
+      date: '900-1000',
+      weave: 'Short-Fibred',
+      note: 'On sword blade inside wooden scabbard.',
+      source: [
+      {
+         author: ['Paterson, c', 'Parsons, A', 'Newman, R', 'Johnson, N', 'Howard Davis, C'],
+         year: 2014,
+         title: 'Shadows in the Sand: Excavation of a Viking-Age Cemetary at Cumwhitton, Cumbria'
+      }]
+   },
+   {
+      place: 'Cumwhitton',
+      fabricType: 'Veg',
+      item: 'Textile Fragment',
+      catalogueRef: 'Grave 6 - 2',
+      date: '900-1000',
+      weave: 'Tabby',
+      warp: 16,
+      warpTwist: 'Z',
+      weft: 10,
+      weftTwist: 'Z',
+      dyeStuff: ['None'],
+      note: 'With buckle',
+      source: [
+      {
+         author: ['Paterson, c', 'Parsons, A', 'Newman, R', 'Johnson, N', 'Howard Davis, C'],
+         year: 2014,
+         title: 'Shadows in the Sand: Excavation of a Viking-Age Cemetary at Cumwhitton, Cumbria'
+      }]
+   },
+   {
+      place: 'Cumwhitton',
+      fabricType: 'Animal Fibre',
+      item: 'Pelt',
+      catalogueRef: 'Grave 6 - 3',
+      date: '900-1000',
+      weave: 'Long-Fibred',
+      note: 'On socket of spear head.',
+      source: [
+      {
+         author: ['Paterson, c', 'Parsons, A', 'Newman, R', 'Johnson, N', 'Howard Davis, C'],
+         year: 2014,
+         title: 'Shadows in the Sand: Excavation of a Viking-Age Cemetary at Cumwhitton, Cumbria'
+      }]
+   },
+   {
+      place: 'Cumwhitton',
+      fabricType: 'Veg',
+      item: 'Textile Fragment',
+      catalogueRef: 'Ploughsoil',
+      date: '900-1000',
+      weave: 'Tabby',
+      warp: 14,
+      warpTwist: 'Z',
+      weft: 14,
+      weftTwist: 'Z',
+      dyeStuff: ['None'],
+      note: 'Binding on Sword Scabbard',
+      source: [
+      {
+         author: ['Paterson, c', 'Parsons, A', 'Newman, R', 'Johnson, N', 'Howard Davis, C'],
+         year: 2014,
+         title: 'Shadows in the Sand: Excavation of a Viking-Age Cemetary at Cumwhitton, Cumbria'
+      }]
+   },
 ];
