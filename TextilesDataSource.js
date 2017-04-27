@@ -613,7 +613,7 @@ var textileDataSource = [
    {
       place: 'York',
       fabricType: 'Wool',
-      item: 'Textile Fragment',
+      item: 'Leg Wrap',
       catalogueRef: '1306',
       date: '935-975',
       weave: '2/2 chevron twill',
@@ -4820,4 +4820,96 @@ var textileDataSource = [
          title: 'Shadows in the Sand: Excavation of a Viking-Age Cemetary at Cumwhitton, Cumbria'
       }]
    },
+   {
+      place: 'Gloucester',
+      fabricType: 'Wool',
+      item: 'Textile Fragment',
+      catalogueRef: '1. A-C',
+      date: '900-1000',
+      weave: '2/2 twill',
+      warp: 11,
+      warpTwist: 'Z',
+      warpFleeceType: 'Hairy',
+      weft: 8,
+      weftTwist: 'Z',
+      weftFleeceType: 'Hairy',
+      observableColour: 'mid-brown',
+      dyeStuff: ['None'],
+      note: '3 Fragmebts. 0.4 m^2 of mid-brown wool textile including, in addition to scraps, three large pieces described separately below. Predominantly an un reversed 2/2 twill. Warp/I I/Z/o.8 mm (thinner and harder spun) X We/8/S/LO (thicker and softer spun)',
+      source: [
+      {
+         author: ['HEIGHWAY, C. M', 'GARROD, A. P', 'VINCE, A. G'],
+         year: 1979,
+         title: 'Excavations at 1 Westgate Street, Gloucester, 1975'
+      }]
+   },
+   {
+      place: 'Gloucester',
+      fabricType: 'Wool',
+      item: 'Textile Fragment',
+      catalogueRef: '2',
+      date: '900-1000',
+      weave: '2/2 twill',
+      warp: 6,
+      warpTwist: 'Z',
+      warpFleeceType: 'Hairy',
+      weft: 6,
+      weftTwist: 'Z',
+      weftFleeceType: 'Hairy',
+      observableColour: 'Brown',
+      dyeStuff: ['None'],
+      note: '',
+      source: [
+      {
+         author: ['HEIGHWAY, C. M', 'GARROD, A. P', 'VINCE, A. G'],
+         year: 1979,
+         title: 'Excavations at 1 Westgate Street, Gloucester, 1975'
+      }]
+   },
+   {
+      place: 'Gloucester',
+      fabricType: 'Wool',
+      item: 'Textile Fragment',
+      catalogueRef: '3',
+      date: '900-1000',
+      weave: '2/2 twill',
+      warp: 5,
+      warpTwist: 'Z',
+      warpFleeceType: 'Hairy',
+      weft: 5,
+      weftTwist: 'S',
+      weftFleeceType: 'Hairy',
+      observableColour: 'Black',
+      dyeStuff: ['None'],
+      note: 'A mass of black brittle fragments of woollen cloth totalling approximately 0.35 m^2',
+      source: [
+      {
+         author: ['HEIGHWAY, C. M', 'GARROD, A. P', 'VINCE, A. G'],
+         year: 1979,
+         title: 'Excavations at 1 Westgate Street, Gloucester, 1975'
+      }]
+   },
+   {
+      place: 'Gloucester',
+      fabricType: 'Wool',
+      item: 'Textile Fragment',
+      catalogueRef: '4',
+      date: '900-1000',
+      weave: '2/2 twill',
+      warp: 6,
+      warpTwist: 'Z',
+      warpFleeceType: 'Hairy',
+      weft: 5,
+      weftTwist: 'S',
+      weftFleeceType: 'Hairy',
+      observableColour: 'Brown',
+      dyeStuff: ['None'],
+      note: 'A scrap of brown woollen cloth C.5.00 mm^2. A twill with no reverse apparant but quite crude and odd in that threads in the Z spun system cross anything between one and three of the ones in the S spun system at a time',
+      source: [
+      {
+         author: ['HEIGHWAY, C. M', 'GARROD, A. P', 'VINCE, A. G'],
+         year: 1979,
+         title: 'Excavations at 1 Westgate Street, Gloucester, 1975'
+      }]
+   }
 ];
