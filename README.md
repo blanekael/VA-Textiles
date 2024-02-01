@@ -1,7 +1,5 @@
 # VA-Textiles
-Viking Age Textiles DataBase
+Viking Age Textiles Data in the British Isles
 usage
-## Find provided:
-Javascript Object,
-JSON Document,
-SQL Insert Statement,
+## File provided:
+Javascript Object
